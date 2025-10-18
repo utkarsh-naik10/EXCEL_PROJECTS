@@ -24,5 +24,5 @@ Each project is stored in its own folder with:
 
 | # | Project Title | Description | Status |
 |---|----------------|-------------|--------|
-| 1️⃣ | [Superstore Analysis](./1.Superstore%20Analysis) | Sales, Shipping, and Customer Insights using Excel |
+| 1️⃣ | [Supermarket Analysis](./1.Supermarket%20Analysis) | Sales, Shipping, and Customer Insights using Excel |
 | 2️⃣ | Upcoming Project | To be added | ⏳ In Progress |
