@@ -20,6 +20,11 @@ Each project is stored in its own folder with:
 - A detailed `README.md` describing the objectives, steps, and results.
 - Optional charts or screenshots in the `/images` folder.
 
+### 🧑‍💻 Author
+**Utkarsh Naik**  
+Tech Professional | Data Analytics Enthusiast 
+- Contact: utkarsh.un@gmail.com
+
 ## 🧱 Projects Included
 
 | # | Project Title | Description | Status |

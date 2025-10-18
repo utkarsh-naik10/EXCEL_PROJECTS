@@ -75,4 +75,4 @@ Data cleaning was performed in Excel (and partially with Power Query):
 ### 🧑‍💻 Author
 **Utkarsh Naik**  
 Tech Professional | Data Analytics Enthusiast 
-Contact: utkarsh.un@gmail.com
+- Contact: utkarsh.un@gmail.com
