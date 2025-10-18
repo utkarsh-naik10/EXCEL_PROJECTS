@@ -20,3 +20,9 @@ Each project is stored in its own folder with:
 - A detailed `README.md` describing the objectives, steps, and results.
 - Optional charts or screenshots in the `/images` folder.
 
+## 🧱 Projects Included
+
+| # | Project Title | Description | Status |
+|---|----------------|-------------|--------|
+| 1️⃣ | [Superstore Analysis](./1.Superstore%20Analysis) | Sales, Shipping, and Customer Insights using Excel |
+| 2️⃣ | Upcoming Project | To be added | ⏳ In Progress |
