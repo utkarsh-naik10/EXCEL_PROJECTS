@@ -12,10 +12,10 @@ The project demonstrates a complete end-to-end Excel analysis workflow:
 ### 📁 Folder Contents
 | File / Folder | Description |
 |----------------|-------------|
-| **Superstore_Raw_Data.xlsx** | Original dataset used for analysis. |
-| **Superstore_Final_Analysis.xlsx** | Cleaned and processed version with all derived columns, PivotTables, and charts. |
+| **Raw Data.csv** | Original dataset used for analysis. |
+| **Superstore Analysis.xlsx** | Cleaned and processed version with all derived columns, PivotTables, and charts. |
 | **README.md** | Project documentation (this file). |
-| **/Results_images/** | Contains chart and dashboard snapshots for reference. |
+| **/Images/** | Contains chart snapshots for reference. |
 
 ---
 
@@ -69,13 +69,6 @@ Data cleaning was performed in Excel (and partially with Power Query):
 | **Slicers** | Interactive filtering (Dashboard-ready design) |
 | **GitHub** | Version control & portfolio showcase |
 
-
----
-
-### 🚀 Next Steps
-- Build the **Excel Dashboard** (with slicers for Region, Segment, and Year).  
-- Integrate KPI cards for quick insights (Total Sales, Avg Shipping Days, etc.).  
-- Add dashboard screenshots to `/images` and update this README.  
 
 ---
 
