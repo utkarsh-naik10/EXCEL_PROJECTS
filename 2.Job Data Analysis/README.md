@@ -9,7 +9,7 @@ The interactive Excel dashboard and PDF report summarize **31 key business quest
 ---
 
 ## 🗂️ Folder Structure
-
+```text
 Job Data Analysis/
 │
 ├── Raw Data/
@@ -25,7 +25,7 @@ Job Data Analysis/
     ├── top_skills_chart.png
     └── salary_trend_chart.png
 
-
+```
 ---
 
 ## 🎯 Objectives
