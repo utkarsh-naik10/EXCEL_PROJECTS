@@ -29,5 +29,5 @@ Tech Professional | Data Analytics Enthusiast
 
 | # | Project Title | Description | Status |
 |---|----------------|-------------|--------|
-| 1️⃣ | [Supermarket Analysis](./1.Superstore%20Analysis) | Sales, Shipping, and Customer Insights using Excel |
+| 1️⃣ | [SuperStore Analysis](./1.Superstore%20Analysis) | Sales, Shipping, and Customer Insights using Excel |
 | 2️⃣ | Upcoming Project | To be added | ⏳ In Progress |
