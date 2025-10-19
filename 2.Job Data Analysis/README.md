@@ -11,19 +11,19 @@ The interactive Excel dashboard and PDF report summarize **31 key business quest
 ## 🗂️ Folder Structure
 
 Job Data Analysis/
+│
 ├── Raw Data/
 │   ├── 01_Jan_data_jobs.xlsx
 │   ├── 02_Feb_data_jobs.xlsx
 │   ├── ...
 │   └── 12_Dec_data_jobs.xlsx
 │
-├── Job Data Analysis.xlsx         # Final Excel dashboard
-├── Job Data Analysis.pdf          # Dashboard report (one-page visual summary)
-└── Images/
+├── Job Data Analysis.xlsx        # Final Excel dashboard with PivotTables & charts
+├── Job Data Analysis.pdf         # Exported dashboard report (one-page visual summary)
+└── Images/                       # Screenshots of dashboard and visuals
     ├── dashboard_full.png
-    ├── job_volume_trend.png
-    └── Top_10_Skills_by_Frequency.png
-
+    ├── top_skills_chart.png
+    └── salary_trend_chart.png
 
 
 ---
@@ -89,7 +89,7 @@ Job Data Analysis/
 
 | Insight | Visual Example |
 |----------|----------------|
-| **Monthly Job Postings** | ![Monthly Jobs](images/job%20posting%20monthly.png) |
+| **Monthly Job Postings** | ![Monthly Jobs](Images/job_posting_monthly.png) |
 
 📄 View the full dashboard:  
 ➡️ [**Job Data Analysis.pdf**](Dashboard_preview.pdf)
