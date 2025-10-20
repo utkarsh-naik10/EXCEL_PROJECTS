@@ -1,4 +1,4 @@
-# 💼 Job Data Analysis (Excel Project)
+# 💼 Job Data Analysis
 
 ### 📊 Overview
 This project analyzes **job market trends, salaries, company hiring behavior, and skill demand** using real-world job posting data collected over **12 months**.  
@@ -19,7 +19,7 @@ Job Data Analysis/
 │   └── 12_Dec_data_jobs.xlsx
 │
 ├── Job Data Analysis.xlsx        # Final Excel dashboard with PivotTables & charts
-├── Job Data Analysis.pdf         # Exported dashboard report (one-page visual summary)
+├── Dashboard_preview.pdf         # Exported dashboard report (one-page visual summary)
 └── Images/                       # Screenshots of dashboard and visuals
     ├── dashboard_full.png
     ├── top_skills_chart.png
@@ -103,7 +103,7 @@ Job Data Analysis/
 | **Microsoft Excel 2016** | Main analysis & dashboard |
 | **Power Query** | Data cleaning and merging monthly files |
 | **PivotTables & PivotCharts** | Aggregation and visualization |
-| **Slicers** | Interactive filtering (region, month, role) |
+| **Slicers** | Interactive filtering |
 | **Conditional Formatting** | Highlighting key insights |
 | **PDF Export** | Final report format for sharing |
 
@@ -111,20 +111,10 @@ Job Data Analysis/
 
 ## 💡 Insights Summary
 
-- **Data roles dominate** monthly postings — especially Data Analyst and Data Engineer positions.  
-- **Remote jobs** account for ~35% of postings, with competitive salaries comparable to on-site roles.  
-- **Python, SQL, and AWS** remain top skills across most roles.  
-- **Corporate employers** consistently post more jobs but offer slightly lower pay on average.  
-- **West and East regions** lead in salary distribution, while **Central regions** show rising skill diversity.
-
----
-
-## 📈 Future Enhancements
-
-- Automate monthly data merging using Power Query.  
-- Add Power BI version of the dashboard for live interactivity.  
-- Integrate skill frequency analysis in Python (Pandas + Matplotlib).  
-- Include YoY comparison for next dataset update.
+- **Data roles dominate** monthly postings — especially Data Analyst and Data Scientist positions.  
+- **Remote jobs** account for ~18.24% of postings, with competitive salaries comparable to on-site roles.  
+- **SQL, Python and Tableau** remain top skills across most roles.  
+- **Corporate employers** consistently post more jobs but offer slightly lower pay on average. 
 
 ---
 
