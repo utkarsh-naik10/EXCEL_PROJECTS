@@ -1,4 +1,4 @@
-# 🏪 Superstore Sales and Shipping Performance Analysis (Excel Project)
+# 🏪 Superstore Sales and Shipping Performance Analysis 
 
 ### 🧠 Overview
 This project analyzes sales and shipping performance using the **Superstore dataset** in Excel.  
