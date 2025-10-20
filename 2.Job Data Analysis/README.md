@@ -15,15 +15,21 @@ Job Data Analysis/
 ├── Raw Data/
 │   ├── 01_Jan_data_jobs.xlsx
 │   ├── 02_Feb_data_jobs.xlsx
-│   ├── ...
-│   └── 12_Dec_data_jobs.xlsx
+│   └── ... (12 months)
 │
-├── Job Data Analysis.xlsx        # Final Excel dashboard with PivotTables & charts
-├── Dashboard_preview.pdf         # Exported dashboard report (one-page visual summary)
-└── Images/                       # Screenshots of dashboard and visuals
-    ├── dashboard_full.png
+├── Job Data Analysis.xlsx          # Main Excel workbook (pivots & charts)
+├── JDashboard_preview.pdf          # Combined full dashboard
+└── Results/                        # All final outputs
+    ├── job volume trend.png
+    ├── salary_trends_chart.png
     ├── top_skills_chart.png
-    └── salary_trend_chart.png
+    ├── Job_Market_Trends.pdf
+    ├── Salary_Insights.pdf
+    ├── Company_Insights.pdf
+    ├── Skill_Demand_Trends.pdf
+    ├── Regional_Insights.pdf
+    └── Time_Based_Trends.pdf
+
 
 ```
 ---
@@ -89,7 +95,7 @@ Job Data Analysis/
 
 | Insight | Visual Example |
 |----------|----------------|
-| **Monthly Job Postings** | ![Monthly Jobs](Images/job_posting_monthly.png) |
+| **Monthly Job Postings** | ![Monthly Jobs](Results/job_posting_monthly.png) |
 
 📄 View the full dashboard:  
 ➡️ [**Job Data Analysis.pdf**](Dashboard_preview.pdf)
