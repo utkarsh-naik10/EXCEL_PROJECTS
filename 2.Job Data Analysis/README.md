@@ -1,131 +1,184 @@
-# 💼 Job Data Analysis
+# 💼 Job Data Analysis — Excel Project
 
-### 📊 Overview
-This project analyzes **job market trends, salaries, company hiring behavior, and skill demand** using real-world job posting data collected over **12 months**.  
-It demonstrates end-to-end data cleaning, transformation, and dashboard creation in **Microsoft Excel 2016**.
-
-The interactive Excel dashboard and PDF report summarize **31 key business questions** related to hiring patterns, salary insights, and skill trends across regions.
+**Author:** Utkarsh Naik
+**Tool Used:** Microsoft Excel (Power Query, PivotTables, Charts, Dashboard)  
+**Total Records:** 32,628 job postings  
+**Skills Tracked:** 221 unique skills  
+**Companies Analyzed:** 9,778  
 
 ---
 
-## 🗂️ Folder Structure
-```text
-Job Data Analysis/
-│
-├── Raw Data/
-│   ├── 01_Jan_data_jobs.xlsx
-│   ├── 02_Feb_data_jobs.xlsx
-│   └── ... (12 months)
-│
-├── Job_Data_Analysis.xlsx          # Main Excel workbook (pivots & charts)
-├── JDashboard_preview.pdf          # Combined full dashboard
-└── Results/                        # All final outputs
-    ├── Job_Market_Trends.pdf
-    ├── Salary_Insights.pdf
-    ├── Company_Insights.pdf
-    ├── Skill_Demand_Trends.pdf
-    ├── Regional_Insights.pdf
-    └── Time_Based_Trends.pdf
-    ├── Images
-        ├── top_skills_chart.png
-        ├── Regions with highest paying salary.png
+## 📘 Project Overview
 
-```
+This project focuses on exploring and understanding the **global job market for data-related roles**.  
+The dataset includes job titles, locations, skills, salaries, remote options, and hiring companies.
+
+The goal is to identify:
+- **Top hiring companies & job titles**  
+- **Salary trends** across industries, roles, and regions  
+- **Most in-demand technical skills**  
+- **Remote vs on-site job distributions**  
+- **Regional variations** in hiring and pay patterns  
+
+The analysis was fully conducted in **Microsoft Excel**, using:
+- Power Query for data cleaning  
+- PivotTables for aggregation and filtering  
+- Charts & Slicers for visualization  
+- Interactive Dashboard for summarizing results  
+
 ---
 
 ## 🎯 Objectives
 
-- Analyze **job postings** across multiple months to identify hiring and salary trends.
-- Explore **skills in demand** across roles, regions, and companies.
-- Compare **remote vs on-site** work and its impact on salary.
-- Evaluate **degree requirements**, **health insurance benefits**, and **top-paying companies**.
-- Present insights through an **interactive Excel dashboard** with slicers and dynamic charts.
+1. Analyze job posting trends and monthly hiring patterns.  
+2. Identify top companies, roles, and recruiters driving the data job market.  
+3. Examine salary differences by role, skill, company, and region.  
+4. Determine the most in-demand and high-paying skills.  
+5. Study regional trends in hiring, remote work adoption, and skill concentration.  
+6. Provide actionable insights for **job seekers** and **employers**.
 
 ---
 
-## 🧮 Key Analytical Questions
+## ⚙️ Tools & Techniques Used
+- **Microsoft Excel**
+  - Power Query for data transformation
+  - PivotTables for grouping and metrics
+  - Chart visualizations (bars, lines, combo charts)
+  - Slicers for dashboard interactivity
+- **KPIs Calculated:**
+  - Total Job Postings
+  - Average Salary
+  - % Remote Jobs
+  - Active Companies
+  - Unique Skills
 
-### 📅 Job Market & Posting Trends
-1. How many job postings were made monthly?  
-2. What are the most common job titles?  
-3. What is the distribution of jobs by country?  
-4. How many jobs allow remote (work-from-home)?  
-5. What is the trend of job postings by day?  
-6. Which platforms post the most jobs?
+---
+
+## 📂 Folder Structure
+```
+Job Data Analysis/
+├── Raw Data/
+│ └── job_data.csv
+│
+├── Results/
+│ ├── Dashboard.jpg
+│ ├── Job Market & Posting Trend.jpg
+│ ├── Salary Insights.jpg
+│ ├── Company Insights.jpg
+│ ├── Skill Demand & Trends.jpg
+│ ├── Regional Insights.jpg
+│ ├── Time-Based Trend.jpg
+│ ├── pdf/
+│ │ ├── Job Market & Posting Trend.pdf
+│ │ ├── Salary Insights.pdf
+│ │ ├── Company Insights.pdf
+│ │ ├── Skill Demand & Trends.pdf
+│ │ ├── Regional Insights.pdf
+│ │ └── Time-Based Trend.pdf
+│ └── README.md
+│
+└── Job_Data_Analysis.xlsx
+```
+
+
+---
+
+## 📊 Analysis Summary
+
+### 🔹 Job Market Overview
+- **Total Job Postings:** 32,628  
+- **Remote Jobs:** ~18% of all postings  
+- **Top Platforms:** Upwork, LinkedIn, Glassdoor  
+- **Peak Hiring Months:** July & August  
+- **Most Common Roles:** Data Analyst, Data Engineer, Senior Data Scientist  
 
 ### 💰 Salary Insights
-7. What is the average salary per role?  
-8. What are the top-paying companies?  
-9. How does remote work affect average salary?  
-10. Are there location-based salary differences?  
-11. How does degree requirement affect salary?  
-12. What is the distribution of annual salaries?  
-13. Which jobs offer health insurance and how do their salaries compare?
+- **Average Salary:** $114,978  
+- **Highest Paying Roles:** Senior Data Engineer, ML Engineer, Data Scientist  
+- **Top Paying Regions:** Pretoria, Belarus, Dodgeville  
+- **Remote Roles:** Offer ~5–10% higher pay on average  
+
+### 🧠 Skills & Trends
+- **Most In-Demand Skills:** SQL, Python, Tableau, Excel  
+- **Top Salary by Skill:** R, AWS, Python  
+- **Common Combinations:** Python + SQL, Excel + Tableau  
+- **Unique Skills Identified:** 221  
 
 ### 🏢 Company Insights
-14. Which companies posted the most jobs?  
-15. What is the average salary per company?  
-16. Which companies hire for multiple job titles?  
-17. Which companies have the highest remote job ratio?
+- **Top Hiring Companies:** Upwork, Robert Half, Insight Global  
+- **Remote-Friendly Leaders:** Patterned Learning AI, Upwork, Get IT Recruit  
+- **Multiple Job Titles:** Upwork & Robert Half post across several categories  
 
-### 🧠 Skill Demand & Trends
-18. What are the most in-demand skills overall?  
-19. Which skills are most common for each role?  
-20. What is the average salary by skill?  
-21. What skill combinations frequently appear together?  
-22. Are there skills unique to certain job titles?  
-23. How many unique skills exist in total?
+### 🌍 Regional Overview
+- **Top Hiring States:** California, Texas, New York  
+- **Skill Hotspots:**  
+  - Python & SQL → New York & San Francisco  
+  - AWS & Azure → Atlanta & Austin  
+- **Remote Work Ratio:** Highest in Sudan (48%), lowest in Spain & India (<5%)  
 
-### 🌍 Regional Insights
-24. Which countries/states have the most job postings?  
-25. Which regions pay the highest average salary?  
-26. What’s the ratio of local vs remote jobs by region?  
-27. Any skills regionally concentrated?
-
-### ⏱️ Time-based Trends
-28. How has total job volume changed month-over-month?  
-29. How have average salaries evolved over time?  
-30. Which skills gained or lost popularity month-over-month?  
-31. Which companies were consistently hiring?
+### ⏱️ Time Trends
+- **Hiring Trends:** Decline toward year-end, mid-year peaks.  
+- **Salary Trend:** Stable around $110K–$120K across months.  
+- **Skill Popularity:** Python & SQL remain constant; Tableau peaks mid-year.
 
 ---
 
-## 📊 Dashboard Highlights
+## 💡 Key Insights
 
-| Insight | Visual Example |
-|----------|----------------|
-| **Monthly Job Postings** | ![Monthly Jobs](Results/job_posting_monthly.png) |
-
-📄 View the full dashboard:  
-➡️ [**Job Data Analysis.pdf**](Dashboard_preview.pdf)
-
----
-
-## ⚙️ Tools & Techniques
-
-| Tool | Purpose |
+| Area | Insight |
 |------|----------|
-| **Microsoft Excel 2016** | Main analysis & dashboard |
-| **Power Query** | Data cleaning and merging monthly files |
-| **PivotTables & PivotCharts** | Aggregation and visualization |
-| **Slicers** | Interactive filtering |
-| **Conditional Formatting** | Highlighting key insights |
-| **PDF Export** | Final report format for sharing |
+| 🔸 **Skills** | Python & SQL are essential in nearly every role |
+| 💰 **Salaries** | Senior data professionals earn 25–30% more |
+| 🌍 **Regions** | U.S. dominates in job count, Pretoria leads salary |
+| 🧑‍💼 **Companies** | Upwork & Robert Half are largest recruiters |
+| 🏠 **Remote Work** | Remote roles are growing but still under 20% |
+| 📈 **Trends** | Job demand is stable year-round, peaking mid-year |
 
 ---
 
-## 💡 Insights Summary
+## 💡 Recommendations
 
-- **Data roles dominate** monthly postings — especially Data Analyst and Data Scientist positions.  
-- **Remote jobs** account for ~18.24% of postings, with competitive salaries comparable to on-site roles.  
-- **SQL, Python and Tableau** remain top skills across most roles.  
-- **Corporate employers** consistently post more jobs but offer slightly lower pay on average. 
+1. **For Job Seekers**
+   - Focus on **Python, SQL, and Tableau** to stay relevant.  
+   - Consider hybrid or remote roles for higher compensation.  
+   - Build domain knowledge around **data engineering** and **machine learning** roles.
+
+2. **For Employers**
+   - Use mid-year as the optimal hiring window.  
+   - Offer competitive pay and flexible work policies to attract skilled talent.  
+   - Leverage skill-based salary analysis for equitable pay structures.
+
+3. **For Analysts**
+   - Extend the project by integrating Python or Power BI for interactive dashboards.  
+   - Use trend forecasting to predict next-quarter hiring volumes.
 
 ---
 
-## 🧑‍💻 Author
+## 📈 Dashboard Overview
+The Excel dashboard consolidates:
+- **KPI Summary Cards:** Total Jobs, Avg Salary, Remote %, Unique Skills  
+- **Charts:**  
+  - Job Posting Trends  
+  - Salary by Role & Skill  
+  - In-Demand Skills  
+  - Company Insights  
+  - Regional Hiring & Skill Heatmaps  
+  - Time-Based Trends  
 
-**Utkarsh Naik**  
-Tech Professional | Data Analytics Enthusiast  
-- Contact: utkarsh.un@gmail.com
+📊 Visuals and full PDFs are available in the [`Results`](./Results) folder.
+
+---
+
+## 🚀 Outcome
+This analysis provides:
+- A complete **data-driven overview of the job market**  
+- Insight into **skill demand**, **salary structure**, and **regional hiring**  
+- Clear indicators of **industry focus areas** and **remote work evolution**
+
+It serves as a valuable reference for recruiters, data analysts, and professionals navigating the modern job landscape.
+
+---
+
+**📌 Author:** Utkarsh Naik 
+**📈 Project Type:** Exploratory & Descriptive Analytics  
 
