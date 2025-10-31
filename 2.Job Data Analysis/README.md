@@ -1,6 +1,5 @@
 # 💼 Job Data Analysis — Excel Project
 
-**Author:** Utkarsh Naik
 **Tool Used:** Microsoft Excel (Power Query, PivotTables, Charts, Dashboard)  
 **Total Records:** 32,628 job postings  
 **Skills Tracked:** 221 unique skills  
