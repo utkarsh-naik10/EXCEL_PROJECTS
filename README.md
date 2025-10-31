@@ -60,7 +60,7 @@ Each project is organized in its own folder, containing:
 
 ### 🧑‍💻 Author
 **Utkarsh Naik**  
-Data Analytics Enthusiast | Tech Professional | Excel & BI Learner  
+Data Analytics Enthusiast | Tech Professional |
 
 📧 **Email:** utkarsh.un@gmail.com  
 💼 **Portfolio Focus:** Transforming raw datasets into clear, actionable insights using Excel.
