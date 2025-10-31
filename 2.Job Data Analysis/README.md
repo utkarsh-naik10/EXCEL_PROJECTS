@@ -165,7 +165,7 @@ The Excel dashboard consolidates:
   - Regional Hiring & Skill Heatmaps  
   - Time-Based Trends  
 
-📊 Visuals and full PDFs are available in the [`Results`](/Results/PDF's/) folder.
+📊 Visuals and full PDFs are available in the [`Results`](/Results/PDF's) folder.
 
 ---
 
