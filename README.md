@@ -46,6 +46,7 @@ Each project is organized in its own folder, containing:
 | 1️⃣ | [Superstore Sales & Shipping Analysis](./1.Superstore%20Sales%20Analysis) | Sales, regional performance, and logistics efficiency insights using Excel. | ✅ Completed |
 | 2️⃣ | [Job Data Analysis](./2.Job%20Data%20Analysis) | Job market trends, salary analysis, and skill demand exploration using Excel. | ✅ Completed |
 | 3️⃣ | [Hotel Bookings Analysis](./3.Hotel%20Bookings%20Analysis) | Booking trends, customer segmentation, and revenue channel analysis for hotels. | ✅ Completed |
+| 4️⃣ | [Border Crossing Entry Data USA](./4.Border%20Crossing%20Entry%20Data%20USA) | U.S. border traffic analysis with trends, port performance, seasonal patterns, and dashboard. | ✅ Completed |
 
 
 ---
