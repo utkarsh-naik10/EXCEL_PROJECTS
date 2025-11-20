@@ -64,7 +64,7 @@ Each project is organized in its own folder, containing:
 **Utkarsh Naik**  
 Data Analytics Enthusiast | Tech Professional |
 
-📧 **Email:** utkarsh.un@gmail.com  
+📧 **Email:** utkarshnaik.in@gmail.com    
 💼 **Portfolio Focus:** Transforming raw datasets into clear, actionable insights using Excel.
 
 ---
