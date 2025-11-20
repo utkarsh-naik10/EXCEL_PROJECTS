@@ -162,6 +162,6 @@ The findings help guide decision-making on pricing, promotions, and operations e
 
 ---
 
-**📌 Author:** Utkarsh Naik 
+**📌 Author:** Utkarsh Naik   
 **📁 Folder:** `1. Superstore Sales and Shipping Performance Analysis`  
 **🏷️ Tags:** Excel Dashboard • Business Analytics • Sales Insights • Shipping Performance • Customer Analysis
