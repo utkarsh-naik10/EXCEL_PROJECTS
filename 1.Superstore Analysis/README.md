@@ -149,6 +149,9 @@ The Excel dashboard summarizes all analysis visually:
 👉 Full visuals and charts are stored in the [`Results`](./Results) folder.  
 Detailed PDFs are located in [`Results/PDF's`](./Results/PDF's).
 
+## 🖥️ Checkout the full dashboard  
+🔗 **[Power BI Dashboard Version](https://github.com/utkarsh-naik10/POWER_BI_PROJECTS/tree/main/1.SuperMarket_Analysis)**
+
 ---
 
 ## 🚀 Outcome
