@@ -164,11 +164,11 @@ The Excel dashboard consolidates:
   - Regional Hiring & Skill Heatmaps  
   - Time-Based Trends  
 
-📊 Visuals and full reports are available in the [`Results`](./Results) folder.  
-📄 Detailed PDFs are stored in the subfolder: [`Results/PDF's`](./Results/PDF's)
+- 📊 Visuals and full reports are available in the [`Results`](./Results) folder.  
+- 📄 Detailed PDFs are stored in the subfolder:  [`Results/PDF's`](./Results/PDF's)
 --- 
 
-## Checkout the full dashboard  
+## 🖥️ Checkout the full dashboard  
 🔗 **[Power BI Dashboard Version](https://github.com/utkarsh-naik10/POWER_BI_PROJECTS/tree/main/2.Job_Data_Analysis)**
 
 
