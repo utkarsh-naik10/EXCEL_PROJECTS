@@ -150,7 +150,8 @@ The Excel dashboard summarizes all analysis visually:
 Detailed PDFs are located in [`Results/PDF's`](./Results/PDF's).
 
 ## 🖥️ Checkout the full dashboard  
-🔗 **[Power BI Dashboard Version](https://github.com/utkarsh-naik10/POWER_BI_PROJECTS/tree/main/1.SuperMarket_Analysis)**
+
+- 🔗 **[Power BI Dashboard Version](https://github.com/utkarsh-naik10/POWER_BI_PROJECTS/tree/main/1.SuperMarket_Analysis)**
 
 ---
 
@@ -167,4 +168,3 @@ The findings help guide decision-making on pricing, promotions, and operations e
 
 **📌 Author:** Utkarsh Naik   
 **📁 Folder:** `1. Superstore Sales and Shipping Performance Analysis`  
-**🏷️ Tags:** Excel Dashboard • Business Analytics • Sales Insights • Shipping Performance • Customer Analysis
